@@ -2,3 +2,6 @@
 
 
 Simple Journal IOS app 
+
+
+
